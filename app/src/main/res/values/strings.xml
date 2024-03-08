@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="login">登录</string>
+    <string name="sure">确定</string>
+    <string name="input_code">请输入编号</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="init_pwd">初始化新密码</string>
+    <string name="first_set_new_pwd">首次登录请设置新密码</string>
+    <string name="input_new_pwd">请输入新密码</string>
+    <string name="sure_pwd">确认新密码</string>
+    <string name="pwd_not_same">两次密码不一致</string>
+    <string name="set_new_pwd">设置新密码</string>
+    <string name="input_verify_code">请输入验证码</string>
+    <string name="send_email_to">我们已经通过电子邮件发送验证码至%s</string>
+    <string name="update_pwd">修改密码</string>
+    <string name="setting">设置</string>
+    <string name="exit_login">退出登录</string>
+    <string name="version">版本号</string>
+    <string name="account_and_safe">账号与安全</string>
+    <string name="personinfo">个人信息</string>
+    <string name="number">编号</string>
+    <string name="sex">性别</string>
+    <string name="head">头像</string>
+    <string name="department">部门</string>
+    <string name="set_remarks">设置备注和描述</string>
+    <string name="remarks_and_describe">备注与描述</string>
+    <string name="save">保存</string>
+    <string name="remarks_name">备注名</string>
+    <string name="describe">描述</string>
+    <string name="name">姓名:%s</string>
+    <string name="phone">电话:%s</string>
+    <string name="sendmsg">发消息</string>
+    <string name="cancel">取消</string>
+</resources>
